@@ -363,3 +363,8 @@ presionar esc para sallir de modo de edicion => para hacer busqueda colocar : /[
 :wq! => para guadar y salir
 
  <img src="./assets/comandos.jpeg" width=900  />
+
+## Personalizar terminal (Oh my zsh)
+
+<https://ohmyz.sh/#install>
+
