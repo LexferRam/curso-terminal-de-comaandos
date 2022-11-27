@@ -361,3 +361,5 @@ presionar la tecla i: para entrar en modo de insersion
 presionar esc para sallir de modo de edicion => para hacer busqueda colocar : /[palabra a buscar]
 :w => para guadar
 :wq! => para guadar y salir
+
+ <img src="./assets/comandos.jpeg" width=900  />
